@@ -1,4 +1,4 @@
-'''def add(a, b):
+def add(a, b):
     return a + b
 
 def subtract(a, b):
@@ -25,7 +25,7 @@ elif op == '*':
 elif op == '/':
     print(num1, '/', '=', divide(num1, num2))
 else:
-    "invalid input"'''
+    "invalid input"
 
 # Create a function covid( ) & it should accept patient name, and body temperature, by default the body
 # temperature should be 98 degree
